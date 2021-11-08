@@ -10,3 +10,4 @@ Personal Data Science Projects
 *  Below is a heatmap showing the correlation between variables
 *  ![](https://github.com/kwamePhilip/Phil_DS_Portfolio/blob/main/images/heatmap_proj1.png)
 *  Below a scatter plot of the models predictions vs the actual test data (y_test)
+*  ![](https://github.com/kwamePhilip/Phil_DS_Portfolio/blob/main/images/pred_vs_ytest.png)
