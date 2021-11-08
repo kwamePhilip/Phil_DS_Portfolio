@@ -1,7 +1,7 @@
 # Phil_DS_Portfolio
 Personal Data Science Projects
 
-# Project 1: Electrical Energy Predictor: Project Overview
+# [Project 1: Electrical Energy Predictor: Project Overview](https://github.com/kwamePhilip/electrical_energy_predictor/blob/main/Electrical_Energy_Predictor-1%20(1).ipynb)
 * I built a multivariable linear regression model that predicts the net hourly electrical energy output (PE) of a Combined Cycle Power Plant (CCPP) when working with full load.  
 * The predictors used in this model are average Ambient Temperature (AT), Ambient Pressure (AP), Relative Humidity (RH), and Exhaust Vacuum (V).
 *  A CCPP is typically composed of gas turbines, steam turbines, and heat recovery steam generators
