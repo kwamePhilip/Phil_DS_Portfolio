@@ -8,4 +8,5 @@ Personal Data Science Projects
 *  I was able to get the model to predict electrical energy output with 92% accuracy on the test data. 
 *  A model like this can serve as a Reduced Order Model to help engineers quickly study or troubleshoot a complex system like CCPP with minimal computational resources.
 *  Below is a heatmap showing the correlation between variables
+*  ![](https://github.com/kwamePhilip/Phil_DS_Portfolio/blob/main/images/heatmap_proj1.png)
 *  Below a scatter plot of the models predictions vs the actual test data (y_test)
