@@ -9,5 +9,5 @@ Personal Data Science Projects
 *  A model like this can serve as a Reduced Order Model to help engineers quickly study or troubleshoot a complex system like CCPP with minimal computational resources.
 *  Below is a heatmap showing the correlation between variables
 *  ![](https://github.com/kwamePhilip/Phil_DS_Portfolio/blob/main/images/heatmap_proj1.png)
-*  Below a scatter plot of the models predictions vs the actual test data (y_test)
+*  Below is a scatter plot of the models predictions vs the actual test data (y_test)
 *  ![](https://github.com/kwamePhilip/Phil_DS_Portfolio/blob/main/images/pred_vs_ytest.png)
