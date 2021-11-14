@@ -30,6 +30,6 @@ Personal Data Science Projects
 *  Because a false poisitive by this will be very catastrophic, I will select the model with lowest percentage of false positive and highest recall score.  Therefore, **Gradient Boosting** wins!
 *  A plot of feature importance from the Gradient Boost model is shown below
 *  ![](/images/impt_feat_gb.png)
-*  The sulfate concentration and pH are the top two most important features in determining the potability
+*  The **sulfate concentration** and **pH** are the top two most important features in determining the potability
 
 
