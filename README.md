@@ -27,7 +27,7 @@ Personal Data Science Projects
 *  **KNN** model predicts the water potability with accuracy score of **63%**. Below is the plot of the Confusion Matrix for the KNN model
 *  ![](/images/knn_CM.png)
 *  The Gradient Boosting model is the best not only because it has the highest accuracy but has the lowest false positives percentage.
-*  Because a false poisitive by this will be very catastrophic, I will select the model with lowest percentage of false positive and highest recall score.  Therefore, **Gradient Boosting** wins!
+*  Because a false poisitive by this model will be very catastrophic, I will select the model with lowest percentage of false positive and highest recall score.  Therefore, **Gradient Boosting** wins!
 *  A plot of feature importance from the Gradient Boost model is shown below
 *  ![](/images/impt_feat_gb.png)
 *  The **sulfate concentration** and **pH** are the top two most important features in determining the potability
