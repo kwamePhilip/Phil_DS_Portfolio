@@ -14,7 +14,7 @@ Personal Data Science Projects
 *  
 # [Project 2: Water Potability Predictor: Project Overview](https://github.com/kwamePhilip/water_potability_predictor/blob/main/Water%20Potability%20Predictor%20(1).ipynb)
 *  Potability of water indicates if the water is safe for human consumption. Here, 1 = Potable and 0 = Not Potable
-*  My goal in this project was to compare several classification models to find the one that predicts the potability of water with highest accuracy and lowest False Positves
+*  My goal in this project was to compare the performance metrics of several classification models that predicts the potability of water
 *  The classification models I compared were Extreme Gradient Boosting (XGBoost), Gradient Boosting (GBoost), Random Forest, and K Nearest Neighbors (KNN)
 *  I used SciKit learn's *GridSearchCV* to perform the hyperparameter tuning
 *  The dataset was obtained from kaggle.com and contains nine water quality metrics for 3276 different water bodies
