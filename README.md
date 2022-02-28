@@ -8,9 +8,9 @@ Personal Machine Learning Projects
 *  The dataset was obtained from kaggle.com and contains nine water quality metrics for 3276 different water bodies.
 *  After selecting a final model (**Gradient Boosting**), I deployed the model with a Flask application (link below).
 *  [https://water-potability-test.herokuapp.com/](https://water-potability-test.herokuapp.com/)
-*  **Gradient Boosting** model predicts the water potability with accuracy score of **80%**. Below is the plot of the Confusion Matrix for the Gradient Boosting model.
+*  **Gradient Boosting** model predicted the water potability with **80%** accuracy score. Below is the plot of the Confusion Matrix for the Gradient Boosting model.
 *  ![](/images/GB_CM.png)
-*  The Gradient Boosting model was the best not only because it had the highest accuracy but also had the lowest percentage of false positives.
+*  The Gradient Boosting model was the best because it had the highest accuracy and also had the lowest percentage of false positives.
 *  A false poisitive by this model will be very catastrophic. Therfore, I selected the model with lowest percentage of false positive and highest recall score. 
 *  A plot of feature importance from the Gradient Boost model is shown below.
 *  ![](/images/impt_feat_gb.png)
