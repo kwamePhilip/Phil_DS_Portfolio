@@ -10,11 +10,11 @@ Personal Machine Learning Projects
 *  [https://water-potability-test.herokuapp.com/](https://water-potability-test.herokuapp.com/)
 *  **Gradient Boosting** model predicts the water potability with accuracy score of **80%**. Below is the plot of the Confusion Matrix for the Gradient Boosting model.
 *  ![](/images/GB_CM.png)
-*  The Gradient Boosting model is the best not only because it has the highest accuracy but has the lowest false positives percentage.
-*  Because a false poisitive by this model will be very catastrophic, I will select the model with lowest percentage of false positive and highest recall score.  Therefore, **Gradient Boosting** wins!
+*  The Gradient Boosting model was the best not only because it had the highest accuracy but also had the lowest percentage of false positives.
+*  A false poisitive by this model will be very catastrophic. Therfore, I selected the model with lowest percentage of false positive and highest recall score. 
 *  A plot of feature importance from the Gradient Boost model is shown below.
 *  ![](/images/impt_feat_gb.png)
-*  The **sulfate concentration** and **pH** are the top two most important features in determining the potability.
+*  The **sulfate concentration** and **pH** were the top two most important features in determining the potability.
 
 #  [Project 3: Recycled Water Conductivity Predictor (ANN vs MLR models): Project Overview](https://github.com/kwamePhilip/Conductivity_Predictor_from_IOT-_sensors/blob/5dcce5023b760250b458e6306bea3d7c7c438b95/Water_Conductivity_Predictor_from_IOT_Sensing_Data.ipynb)
 *  Water conductivity is directly related to the concentration of ions in the water. These ions come from dissolved salts and other inorganic materials.
