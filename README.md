@@ -2,7 +2,7 @@
 Personal Machine Learning Projects
 
 #  [Project 1: Recycled Water Conductivity Predictor (ANN vs MLR models): Project Overview](https://github.com/kwamePhilip/Conductivity_Predictor_from_IOT-_sensors/blob/5dcce5023b760250b458e6306bea3d7c7c438b95/Water_Conductivity_Predictor_from_IOT_Sensing_Data.ipynb)
-*  *  In this project, I compared the **Root Mean Squared Errors (RMSEs)** of **Artificial Nueral Network (ANN)** and **Multivariable Linear Regression (MLR)** models in predicting the **Conductivity** of Recycled Water.
+*  In this project, I compared the **Root Mean Squared Errors (RMSEs)** of **Artificial Nueral Network (ANN)** and **Multivariable Linear Regression (MLR)** models in predicting the **Conductivity** of Recycled Water.
 *  I deployed the selected machine learning model via a client-facing web application here --> [https://conductivity-predictor.herokuapp.com/](https://conductivity-predictor.herokuapp.com/)
 *  The bar plot below shows the features and how they correlate with the target variable (Conductivty).
 *  ![](/images/conductivity_corr.png)
